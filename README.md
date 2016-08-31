@@ -1,2 +1,3 @@
 # hello-world
-First folder repository (tutorial)
+First repository (tutorial)
+I like the Ramones so much! 1,2,3,4!
